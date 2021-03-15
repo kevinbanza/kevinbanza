@@ -10,6 +10,6 @@ Skills: REACT / JS / HTML / CSS
 - Ask me about Anything  
 - Fun fact: I speak Swahili 
 
-<img src="kb.svg">
+<!--<img src="kb.svg">-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinbanza)](https://github.com/anuraghazra/github-readme-stats)
