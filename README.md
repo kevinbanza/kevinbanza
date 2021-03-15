@@ -9,5 +9,5 @@ Skills: REACT / JS / HTML / CSS
 - I’m currently learning Mandarin 
 - Ask me about Anything  
 - Fun fact: I speak Swahili 
-- 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinbanza)](https://github.com/anuraghazra/github-readme-stats)
