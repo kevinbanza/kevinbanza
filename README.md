@@ -1,4 +1,4 @@
-### Hi there 👋🏾, Kevin Banza 
+### Hi there 👋🏾, I'm Kevin Banza 
 #### Design and Development 
 
 I'm a web designer and developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I also enjoy wireframing, storyboarding, ui, ux and design in general. 
