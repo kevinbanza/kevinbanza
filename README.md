@@ -5,7 +5,7 @@ I'm a web designer and developer. I really enjoy learning languages and framewor
 
 Skills: REACT / JS / HTML / CSS
 
-- I’m currently working on My own company 
+- I’m currently working on my own web desing and digital marketing business.  
 - I’m currently learning Mandarin 
 - Ask me about Anything  
 - Fun fact: I speak Swahili 
